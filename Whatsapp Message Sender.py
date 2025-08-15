@@ -14,5 +14,5 @@ for i in range(100):
     # writing the messages
     pg.write("I Love You")
     time.sleep(0.5)
-    # seding the messages by pressing enter
+    # sending the messages by pressing enter
     pg.press("Enter")
