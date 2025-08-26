@@ -1,4 +1,4 @@
-# Calculator (CFI) program
+# Calculator program
 
 def add(x, y):
     return x + y
